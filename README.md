@@ -1,10 +1,8 @@
 # showGanacheBug
 small test that shows a possible bug in ganache core
 
-#steps
+## steps
 npm ci
-
-##compile
 run ./compilation.sh
 
 ## run without istanbul
